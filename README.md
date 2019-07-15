@@ -1,4 +1,4 @@
-# brandollo-jay
+# Extended to-do app with VueJS
 
 ## Project setup
 ```
